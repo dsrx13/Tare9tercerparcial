@@ -1,0 +1,22 @@
+[
+    { "id": 1, "marca": "Chevrolet", "modelo": "Corvette", "año": 2023 },
+    { "id": 2, "marca": "Ford", "modelo": "Mustang", "año": 2022 },
+    { "id": 3, "marca": "Dodge", "modelo": "Viper", "año": 2021 },
+    { "id": 4, "marca": "Chevrolet", "modelo": "Camaro", "año": 2020 },
+    { "id": 5, "marca": "Ford", "modelo": "Shelby GT500", "año": 2021 },
+    { "id": 6, "marca": "Dodge", "modelo": "Challenger", "año": 2022 },
+    { "id": 7, "marca": "Cadillac", "modelo": "V-Series", "año": 2023 },
+    { "id": 8, "marca": "Chevrolet", "modelo": "Blazer EV", "año": 2024 },
+    { "id": 9, "marca": "Dodge", "modelo": "Demon", "año": 2019 },
+    { "id": 10, "marca": "Lincoln", "modelo": "Continental", "año": 2021 },
+    { "id": 11, "marca": "Chevrolet", "modelo": "Impala SS", "año": 2020 },
+    { "id": 12, "marca": "Ford", "modelo": "GT", "año": 2023 },
+    { "id": 13, "marca": "Chrysler", "modelo": "Pacifica", "año": 2022 },
+    { "id": 14, "marca": "Chevrolet", "modelo": "Silverado", "año": 2024 },
+    { "id": 15, "marca": "Dodge", "modelo": "Ram TRX", "año": 2022 },
+    { "id": 16, "marca": "Tesla", "modelo": "Roadster", "año": 2023 },
+    { "id": 17, "marca": "Pontiac", "modelo": "GTO", "año": 2022 },
+    { "id": 18, "marca": "Ford", "modelo": "F-150 Lightning", "año": 2023 },
+    { "id": 19, "marca": "Chevrolet", "modelo": "Corvette Z06", "año": 2024 },
+    { "id": 20, "marca": "Dodge", "modelo": "Charger", "año": 2022 }
+]
